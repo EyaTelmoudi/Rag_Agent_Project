@@ -10,6 +10,7 @@ __pycache__/
 
 # Fichiers secrets
 .env
+secrets.txt
 
 # Ficheir de test : 
 tests/
