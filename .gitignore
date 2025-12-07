@@ -7,3 +7,9 @@ __pycache__/
 
 # Ignorer fichiers temporaires ou logs
 *.log
+
+# Fichiers secrets
+.env
+
+# Ficheir de test : 
+tests/
